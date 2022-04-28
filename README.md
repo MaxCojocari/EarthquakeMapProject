@@ -6,7 +6,7 @@ An interactive map showing all earthquakes and cities around the world. This is 
 
 **INSTALLATION**
 
-If you work in Eclipse, import the ```UnfoldingMapsProject``` folder in editor (```File``` -> ```Import``` -> ```Existing Projects into Workspace```, Select this folder, ```Finish```). 
+Firstly, clone the repistory on your local machine. If you work in Eclipse, import the ```UnfoldingMapsProject``` folder in editor (```File``` -> ```Import``` -> ```Existing Projects into Workspace```, Select this folder, ```Finish```). 
 These steps are simmilar and for other IDE.
 
 
