@@ -4,13 +4,12 @@
 
 An interactive map showing all earthquakes and cities around the world. This is a Java applet which provides interactive features for searching and visualising earthquake data. 
 
-**INSTALLATION**
+**Installation**
 
 Firstly, clone the repistory on your local machine. If you work in Eclipse, import the ```UnfoldingMapsProject``` folder in editor (```File``` -> ```Import``` -> ```Existing Projects into Workspace```, Select this folder, ```Finish```). 
 These steps are simmilar and for other IDE.
 
-
-**MANUAL INSTALLATION**
+**Manual instalation**
 
 If the import does not work follow the steps below.
 
@@ -20,8 +19,7 @@ If the import does not work follow the steps below.
 - Set native library location for ```jogl.jar```. Choose appropriate folder for your OS;
 - Add ```data/``` as ```src```.
 
-
-**TROUBLE SHOOTING**
+**Trouble shooting**
 
 Switch Java Compiler to 1.6 if you get VM problems. (Processing should work with Java 1.6, and 1.7)
 
