@@ -24,7 +24,7 @@ If the import does not work follow the steps below.
 Switch Java Compiler to 1.6 if you get VM problems. (Processing should work with Java 1.6, and 1.7)
 
 
-**Ouput**
+**Output**
 
 After compiling the entire project you should see this output. Play around the markers on the map in order to catch the information you want. 
 When a city marker is hovered, the map will display a box with the city’s name, country, and population. For an earthquake marker, the map will display the title of the earthquake (including its magnitude and region).  Clicking on a marker gives even more information: a click on a city marker will lead to only that city and earthquakes which affect it being displayed on the map.  Clicking once again on that marker will bring the rest of the map’s markers back.  Similarly, after clicking on an earthquake marker, only cities potentially affected by that earthquake will be displayed. 
